@@ -1,0 +1,66 @@
+*{margin:0;
+  padding: 0;
+}
+
+body{
+  background-image: url(https://i2.wp.com/digiday.com/wp-content/uploads/2016/10/Social-Media-banner.jpg?resize=1440%2C640&ssl=1);
+}
+
+h1{
+  text-align: center;
+  color: white;
+}
+
+.divi1{
+  text-align: center;
+  font-size: 30px;
+  border: 1px grey solid;
+  width:20 px;
+
+  background-color: #99ffff;
+}
+.divi2{
+  text-align: center;
+  font-size: 30px;
+  border: 1px grey solid;
+  width:20 px;
+  background-color: #99ccff;
+}
+.divi3{
+  text-align: center;
+  font-size: 30px;
+  border: 1px grey solid;
+  width:20 px;
+  background-color: #99ffff;
+}
+
+.hi1{
+  font-size: 50px;
+  text-align: center;
+  background-color: orange;
+
+
+}
+.hi2{
+  font-size: 50px;
+  text-align: center;
+  background-color: orange;
+
+}
+.hi3{
+  font-size: 50px;
+  text-align: center;
+  background-color: orange;
+
+}
+
+
+img{
+  width: 60px;
+  height:60px;
+  float:left;
+}
+@media all and (max-width: 400px) {
+  body{
+    background: purple;
+  }
